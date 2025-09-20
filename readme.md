@@ -107,7 +107,7 @@ my_palette = {
 ```python
 my_mapping = {
     "type": "mapping",
-    "name": "...",
+    "name": "s.k,c",
     "desc": "...",
     "smooth": True,
     "map": {
