@@ -107,7 +107,7 @@ my_palette = {
 ```python
 my_mapping = {
     "type": "mapping",
-    "name": "s.k,c",
+    "name": "s.k,c",=(Santosh karki chhetri)
     "desc": "...",
     "smooth": True,
     "map": {
