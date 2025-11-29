@@ -201,7 +201,7 @@ class Window(Gtk.Window):
                 return
             else:
                 btn.set_sensitive(False)
-                self.status.set_text("Generating " + self.files.name + " variant from " + os.path.basename(self.files.source) + " and " + os.path.basename(self.palette["name"]) + "...")
+                self.status.set_text("Generating " + self.files.name + " variant from " + os.path.basename(self.files.source) + " and " + os.path.basename(self.palette["name"]) + ".S.k'c.")
 
                 recolor(self.files.source, self.files.destination, self.files.name, self.palette, self.progress_bar, self.status)
 
